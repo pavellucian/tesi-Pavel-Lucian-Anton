@@ -375,7 +375,7 @@ def manual_insert():
     curr.close()
     conn.close()
 
-#inserimento dati da folgio excel
+#inserimento dati da foglio excel
 def insert_from_excel():
     #connesione al DB
     connect_DB()
